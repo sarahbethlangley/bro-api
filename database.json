@@ -1,0 +1,132 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullName": "Franco Stevens",
+        "email": "stevens@myauto.com",
+        "isSales": false
+      },
+      {
+        "id": 2,
+        "fullName": "Jessica Savage",
+        "email": "savage@myauto.com",
+        "isSales": true
+      }
+    ],
+    "vehicles": [
+      {
+        "id": 1,
+        "stockNumber": "P4268",
+        "make": "Ford",
+        "model": "Mustang",
+        "locationId": 1,
+        "UCI": false
+      },
+      {
+        "id": 2,
+        "stockNumber": "P2245",
+        "make": "Chevrolet",
+        "model": "Cruze",
+        "locationId": 1,
+        "UCI": true
+      },
+      {
+        "id": 3,
+        "stockNumber": "00833A",
+        "make": "Ford",
+        "model": "F-150",
+        "locationId": 1,
+        "UCI": true
+      },
+      {
+        "id": 4,
+        "stockNumber": "22671",
+        "make": "Toyota",
+        "model": "Tundra",
+        "locationId": 1,
+        "UCI": false
+      },
+      {
+        "id": 5,
+        "stockNumber": "00825A",
+        "make": "Subaru",
+        "model": "Outback",
+        "locationId": 1,
+        "UCI": true
+      },
+      {
+        "id": 6,
+        "stockNumber": "P4255",
+        "make": "Ford",
+        "model": "Edge",
+        "locationId": 2,
+        "UCI": true
+      },
+      {
+        "id": 7,
+        "stockNumber": "P4200",
+        "make": "Nissan",
+        "model": "Altima",
+        "locationId": 2,
+        "UCI": true
+      },  
+      {
+        "id": 8,
+        "stockNumber": "00254B",
+        "make": "Ford",
+        "model": "Explorer",
+        "locationId": 2,
+        "UCI": true
+      },
+      {
+        "id": 9,
+        "stockNumber": "CN469",
+        "make": "Kia",
+        "model": "Soul",
+        "locationId": 2,
+        "UCI": false
+      },
+      {
+        "id": 10,
+        "stockNumber": "P4199",
+        "make": "Ford",
+        "model": "Escape",
+        "locationId": 2,
+        "UCI": false
+      },
+      {
+        "id": 11,
+        "stockNumber": "00289A",
+        "make": "Chevrolet",
+        "model": "Impala",
+        "locationId": 3,
+        "UCI": true
+      },
+      {
+        "id": 12,
+        "stockNumber": "P1127",
+        "make": "Toyota",
+        "model": "RAV4",
+        "locationId": 3,
+        "UCI": false
+      }
+      ],
+        "sales": [
+     {
+              "id": 1,
+              "vehicleId": ""
+     }
+          ], 
+        "service": [
+     {
+            "id": 1,
+            "vehicleId": ""
+     } 
+     ],
+        "thirdParty": [
+     {
+               "id": 1,
+               "vehicleId": "",
+               "location": ""
+     } 
+    ]} 
