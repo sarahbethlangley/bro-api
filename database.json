@@ -114,19 +114,19 @@
         "sales": [
      {
               "id": 1,
-              "vehicleId": ""
+              "vehicleId": []
      }
           ], 
         "service": [
      {
             "id": 1,
-            "vehicleId": ""
+            "vehicleId": []
      } 
      ],
         "thirdParty": [
      {
                "id": 1,
-               "vehicleId": "",
+               "vehicleId": [],
                "location": ""
      } 
     ]} 
