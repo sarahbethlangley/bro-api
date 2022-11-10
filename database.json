@@ -3,23 +3,41 @@
     {
       "id": 1,
       "fullName": "Franco Stevens",
-      "email": "stevens@myauto.com",
+      "email": "stevens@service.myauto.com",
       "isSales": false
     },
     {
       "id": 2,
       "fullName": "Jessica Savage",
-      "email": "savage@myauto.com",
+      "email": "savage@sales.myauto.com",
       "isSales": true
+    },
+    {
+      "email": "roads@service.myauto.com",
+      "fullName": "Kasey Roads",
+      "isSales": false,
+      "id": 5
+    },
+    {
+      "email": "cole@sales.myauto.com",
+      "fullName": "Nat Cole",
+      "isSales": true,
+      "id": 6
+    },
+    {
+      "email": "yarn@service.myauto.com",
+      "fullName": "Frieda Yarn",
+      "isSales": false,
+      "id": 7
     }
   ],
   "vehicles": [
     {
-      "stockNumber": "P1845",
-      "make": "Ford",
+      "stockNumber": "P1847",
+      "make": "Chevrolet",
       "model": "Cruze",
-      "locationName": "Sales",
-      "locationId": 1,
+      "locationName": "Off-Site",
+      "locationId": 3,
       "id": 8
     },
     {
@@ -69,6 +87,14 @@
       "locationName": "Off-Site",
       "locationId": 3,
       "id": 14
+    },
+    {
+      "stockNumber": "22439",
+      "make": "Ford",
+      "model": "Expedition",
+      "locationName": "Service",
+      "locationId": 2,
+      "id": 15
     }
   ],
   "locations": [
